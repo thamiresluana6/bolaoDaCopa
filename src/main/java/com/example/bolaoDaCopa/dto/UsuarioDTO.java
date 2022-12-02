@@ -1,4 +1,4 @@
-package com.example.bolaoDaCopa.dto;
+package com.example.bolaoDaCopa.DTO;
 
 import com.example.bolaoDaCopa.models.Endereco;
 import com.example.bolaoDaCopa.models.Palpites;

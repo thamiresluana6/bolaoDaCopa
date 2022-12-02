@@ -2,6 +2,7 @@ package com.example.bolaoDaCopa.services;
 
 import com.example.bolaoDaCopa.models.Endereco;
 import com.example.bolaoDaCopa.repositories.EnderecoRepository;
+import jakarta.persistence.EntityNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
